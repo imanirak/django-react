@@ -6,9 +6,8 @@
 ## Setup
 
 ```shell
-$ pip3 install --upgrade pip
-$ pip3 install pipenv
-$ pipenv shell
+$ pip3 install -r requirements.txt
+$ source venv/bin/activate
 $ yarn install
 $ yarn build
 $ python3 manage.py migrate
