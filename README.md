@@ -3,7 +3,7 @@
 - good bones for django/react stack project deployment
 
 - install pipenv prior to completing these steps
--
+
 ## Setup
 
 ```shell
